@@ -1,8 +1,10 @@
-# Course: Programming II
+# Course: Programming in C++
 
 *Por: GCCyC and Prof. Javier A. Orduz-Ducuara*
 
-This is a repository for OOP course is hold in FESAc. 
+This is a repository for C++ course is hold in FESAc. 
+You download the PDF document from [here](https://www.dropbox.com/s/vjg427shlt7r6bs/main.pdf?dl=0)
+
 
 <!---
 ## Exercise for the begginners
