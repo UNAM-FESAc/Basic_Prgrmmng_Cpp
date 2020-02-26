@@ -5,6 +5,13 @@
 # Course: Programming in C++
 
 *Por: GCCyC and Prof. Javier A. Orduz-Ducuara*
+<!-- badges -->
+[license-badge]: https://img.shields.io/badge/Licencia-CC-orange
+[license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
+
+[![CC License][license-badge]][license]
+
+
 
 [![CC License][license-badge]][license]
 
